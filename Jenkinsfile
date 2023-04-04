@@ -2,5 +2,6 @@
 
 buildpipelinePythonLibrary {
     projectName = 'cbe-mangum'
-    teamSlackChannel = "#mobility_alerts"
+    teamSlackChannel = "#monitoring"
+    codacyToken = '' // request your codacy token from the platform team
 }
