@@ -7,7 +7,7 @@ def get_long_description():
 
 setup(
     name="cbe-mangum",
-    version="0.17.0",
+    version="0.17.1",
     packages=find_packages(exclude=["tests*"]),
     license="MIT",
     url="https://github.com/ServiceHouse/cbe-mangum",
