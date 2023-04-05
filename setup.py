@@ -6,11 +6,11 @@ def get_long_description():
 
 
 setup(
-    name="mangum",
+    name="cbe-mangum",
     version="0.17.0",
     packages=find_packages(exclude=["tests*"]),
     license="MIT",
-    url="https://github.com/jordaneremieff/mangum",
+    url="https://github.com/ServiceHouse/cbe-mangum",
     description="AWS Lambda support for ASGI applications",
     long_description=get_long_description(),
     python_requires=">=3.7",
